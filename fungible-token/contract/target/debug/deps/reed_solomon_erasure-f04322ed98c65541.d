@@ -1,0 +1,15 @@
+/home/jun/vbi-courses/fungible-token/contract/target/debug/deps/reed_solomon_erasure-f04322ed98c65541.rmeta: /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs /home/jun/vbi-courses/fungible-token/contract/target/debug/build/reed-solomon-erasure-e3eab70b8a5a3917/out/table.rs
+
+/home/jun/vbi-courses/fungible-token/contract/target/debug/deps/reed_solomon_erasure-f04322ed98c65541.d: /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs /home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs /home/jun/vbi-courses/fungible-token/contract/target/debug/build/reed-solomon-erasure-e3eab70b8a5a3917/out/table.rs
+
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/lib.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/macros.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/core.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/errors.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/inversion_tree.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/matrix.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_16.rs:
+/home/jun/.cargo/registry/src/github.com-1ecc6299db9ec823/reed-solomon-erasure-4.0.2/src/galois_8.rs:
+/home/jun/vbi-courses/fungible-token/contract/target/debug/build/reed-solomon-erasure-e3eab70b8a5a3917/out/table.rs:
+
+# env-dep:OUT_DIR=/home/jun/vbi-courses/fungible-token/contract/target/debug/build/reed-solomon-erasure-e3eab70b8a5a3917/out
